@@ -1,4 +1,4 @@
-# x64dbgida
+# x64dbgida FOR IDA PRO 7.0
 
 **Modified** x64dbg plugin only for **IDA Pro 7.0**.
 
